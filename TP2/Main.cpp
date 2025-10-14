@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Point.cpp"
 #include "Vector.cpp"
+#include <string>
 using namespace std ;
 
 int main(void){
