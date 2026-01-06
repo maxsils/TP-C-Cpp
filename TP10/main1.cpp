@@ -10,9 +10,9 @@ main(){
     v[2]=30;
     try{
         v[3];
-        
+
     }
     catch(char const&){
-        cout<<
+        cout<< "This is the error"
     }
 }
