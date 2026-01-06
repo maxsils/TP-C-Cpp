@@ -1,7 +1,5 @@
 {
-    "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "string": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "cctype": "cpp",
@@ -25,6 +23,7 @@
         "memory_resource": "cpp",
         "numeric": "cpp",
         "random": "cpp",
+        "string": "cpp",
         "system_error": "cpp",
         "tuple": "cpp",
         "type_traits": "cpp",
